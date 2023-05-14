@@ -1,0 +1,44 @@
+.color-heading{
+    color: #BC2F22 !important
+}
+.color-text{
+    color: #6B120A !important
+}
+.gradient-red{
+    background: linear-gradient(0deg, rgba(81, 24, 0, 0.2) 21.15%, rgba(216, 69, 7, 0) 100%),
+linear-gradient(88.18deg, #C21000 2.98%, #E92E1D 49.25%, #AF1608 96.68%);
+border-color: linear-gradient(0deg, rgba(81, 24, 0, 0.2) 21.15%, rgba(216, 69, 7, 0) 100%),
+linear-gradient(88.18deg, #C21000 2.98%, #E92E1D 49.25%, #AF1608 96.68%);
+}
+.color-white{
+    color: white !important;
+}
+.background-color{
+    background: #F5EADA !important
+
+}
+.mt-16{
+    margin-top: 16px !important;
+}
+.bg-img{
+    background-image: url('');
+}
+.newslatter_fix {
+    z-index: 1;
+    background-size: cover;
+    position: relative;
+    padding: 110px 30px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 8px;
+}
+.flex{
+    display: flex !important;
+    justify-content: space-around !important;
+}
+.border-none{
+    border: none !important;
+}
+.bg-colour-yellow{
+    background-color: #E9C37C !important;
+}
